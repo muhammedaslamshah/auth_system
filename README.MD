@@ -1,3 +1,8 @@
+Welcome to Auth_System
+
+auth_system repository! This project embodies a robust and secure authentication system meticulously crafted using Django, the web framework known for its reliability and versatility. Our authentication system, designed to enhance user experiences and fortify web application security, is at your disposal.
+
+
 ![Screenshot 2023-09-21 131622](https://github.com/muhammedaslamshah/auth_system/assets/119589957/e6452c2a-3ab5-43a7-b02f-8a3f6ef64af8)
 ![Screenshot 2023-09-21 131644](https://github.com/muhammedaslamshah/auth_system/assets/119589957/7c8fc74c-3187-4a11-89f9-ac28da821d21)
 ![Screenshot 2023-09-21 131501](https://github.com/muhammedaslamshah/auth_system/assets/119589957/48a63f3e-bf57-4780-a5d9-fdc6b8ff06f3)
